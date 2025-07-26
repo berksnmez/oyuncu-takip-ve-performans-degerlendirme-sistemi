@@ -1,3 +1,40 @@
+# Futbol Performans
+
+Futbolcu arama, performans değerlendirme ve takip platformu.
+
+## Özellikler
+
+- Oyuncu arama
+- Performans istatistikleri görüntüleme
+- Takip listesi oluşturma
+
+## Kurulum
+
+Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip edin:
+
+```bash
+# Bağımlılıkları yükleyin
+npm install
+
+# Geliştirme sunucusunu başlatın
+npm run dev
+```
+
+Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresine giderek uygulamayı görüntüleyebilirsiniz.
+
+## Teknolojiler
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+## Sayfalar
+
+- Ana Sayfa: Genel bakış ve navigasyon
+- Oyuncu Arama: Futbolcuları arama ve filtreleme
+- Takip Listesi: Takip edilen futbolcuların listesi
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
